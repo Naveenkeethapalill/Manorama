@@ -1,0 +1,174 @@
+.trending
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.trending ul 
+{
+    padding-top: 10px;
+    list-style-type: none;
+}
+.trending li 
+{
+    display: inline;
+    margin-right: 30px;
+}
+.login
+{
+    float: right;
+    margin-top: -30px;
+    color: white;
+    margin-right: 100px;
+}
+.banner img 
+{
+    margin-left: 180px;
+    margin-top: 20px;
+}
+.menu1 
+{
+    float: right;
+}
+.menu1 ul
+{
+    list-style-type:none ; 
+}
+.menu1 li
+{
+    display:inline;
+    margin-right: 20px;
+}
+.date
+{
+    float: left;
+    font-size:xx-small;
+    margin-top:-20px;
+}
+.head img
+{
+    height: 60px;
+    margin-left: 320px;
+}
+.popy
+{
+    float: right;
+    margin-top: -60px;
+    margin-right: 100px;
+}
+.SECTIONS
+{
+    margin-top: -40px;
+    margin-left: 40px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgrey;
+    width:100px ;
+}
+.menu2
+{
+    float: right;
+}
+.menu2 ul
+{
+    list-style: none;
+}
+.menu2 li
+{
+    display:inline;
+    margin-right: 30px;
+}
+.menu2
+{
+    border-style: solid;
+    height: 50px;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    border-width: 5px;
+}
+.news1
+{
+    width: 500px;
+   margin-top: 100px;
+}
+.news1 h4
+{
+color: red;
+}
+.news1 p
+{
+    font-size: 13px;
+}
+.news1 h5 
+{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.brakingnews
+{
+
+    float: right;
+    margin-top: -380px;
+    margin-right: 300px;
+    font-size: 12px;
+    width: 450px;
+}
+.brakingnews img
+ {
+     width: 80px;
+     height: 50px;
+ }
+ .brakingnews p 
+ {
+     margin-left: 90px;
+     margin-top: -50px;
+ }
+ .braking1
+ {
+     margin-bottom: 30px;
+ }
+ .braking2
+ {
+     margin-bottom: 30px;
+ }
+ .braking3
+ {
+      margin-bottom: 30px;
+ }
+.braking4
+{
+    margin-bottom: 30px;
+}
+.braking5
+{
+    margin-bottom: 30px;
+}
+.braking6
+{
+    margin-bottom: 30px;
+}
+.braking7
+{
+    margin-bottom: 30px;
+}
+.braking8
+{
+    margin-bottom: 30px;
+}
+.braking9
+{
+    margin-bottom: 30px;
+}
+.poster img
+{
+    width:300px ;
+    height: 180px;
+}
+.poster
+{
+    margin-top: -550px;
+    margin-left: 450px;
+
+}
